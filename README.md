@@ -4,6 +4,20 @@ This project demonstrates the comparison between a custom-trained face detection
 
 <img src="https://www.innovatrics.com/wp-content/uploads/2021/11/SmartFace-face-detection.gif" alt="Animated GIF" />
 
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Usage](#usage)
+4. [Code Explanation](#code-explanation)
+5. [Results](#results)
+6. [Test Images](#test-images)
+7. [License](#license)
+
+## Introduction
+
+In this project, we explore the effectiveness of custom-trained face detection models compared to a widely-used pretrained classifier. Face detection plays a crucial role in various applications, from photography to security.
+
 ## Prerequisites
 
 Before running the code, ensure you have the following dependencies installed:
