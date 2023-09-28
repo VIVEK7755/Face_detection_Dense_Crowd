@@ -9,9 +9,9 @@ This project demonstrates the comparison between a custom-trained face detection
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Usage](#usage)
-4. [Code Explanation](#code-explanation)
-5. [Results](#results)
-6. [Test Images](#test-images)
+   -[Test Images](#test-images)
+5. [Code Explanation](#code-explanation)
+6. [Results](#results)
 7. [License](#license)
 
 ## Introduction
