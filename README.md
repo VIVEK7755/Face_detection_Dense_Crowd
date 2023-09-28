@@ -34,6 +34,18 @@ drive.mount('/content/drive')
    - `test_images_dir`: Path to the directory containing test images.
 
 3. Execute the code to train the custom classifier and test it against test images.
+   ## Test Images
+   
+   Here are some test images that you can use to evaluate the custom-trained classifier:
+   
+   ![Test Image 1](images/1.jpg)
+   *Figure 1: Test Image 1.*
+   
+   ![Test Image 2](images/2.jpg)
+   *Figure 2: Test Image 2.*
+   
+   ![Test Image 3](images/3.jpg)
+   *Figure 3: Test Image 3.*
 
 ## Code Explanation
 
@@ -46,6 +58,31 @@ drive.mount('/content/drive')
 ## Results
 
 The code produces visual comparisons of face detection results between the custom-trained classifier and the pretrained classifier for each test image. It also includes a bar graph showing the number of faces detected by both classifiers for each test image.
+
+
+![Image 1](images/1.png)
+*Figure 4: Comparison of face detection results for both the classifiers Image 1.*
+
+![Image 2](images/2.png)
+*Figure 5: Comparison of face detection results for both the classifiers Image 2.*
+
+![Image 3](images/3.png)
+*Figure 6: Comparison of face detection results for both the classifiers Image 3.*
+
+![Image 4](images/4.png)
+*Figure 7: Comparison of face detection results for both the classifiers Image 4.*
+
+![Image 5](images/5.png)
+*Figure 8: Comparison of face detection results for both the classifiers Image 5.*
+
+![Image 6](images/6.png)
+*Figure 9: Comparison of face detection results for both the classifiers Image 6.*
+
+![Image 7](images/7.png)
+*Figure 10: Line Graph of face detected results for both the classifiers.*
+
+![Image 8](images/8.png)
+*Figure 11: Improvement btw both the classifiers for face detection.*
 
 ## License
 
