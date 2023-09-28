@@ -2,6 +2,8 @@
 
 This project demonstrates the comparison between a custom-trained face detection classifier and a pretrained classifier using OpenCV's Haar Cascade Classifier. It includes the code for training a custom classifier, testing it against a set of test images, and visualizing the results.
 
+<img src="https://www.innovatrics.com/wp-content/uploads/2021/11/SmartFace-face-detection.gif" alt="Animated GIF" />
+
 ## Prerequisites
 
 Before running the code, ensure you have the following dependencies installed:
@@ -38,13 +40,13 @@ drive.mount('/content/drive')
    
    Here are some test images that you can use to evaluate the custom-trained classifier:
    
-   ![Test Image 1](images/1.jpg)
+   ![Test Image 1](images/1.jpg)<br>
    *Figure 1: Test Image 1.*
    
-   ![Test Image 2](images/2.jpg)
+   ![Test Image 2](images/2.jpg)<br>
    *Figure 2: Test Image 2.*
    
-   ![Test Image 3](images/3.jpg)
+   ![Test Image 3](images/3.jpg)<br>
    *Figure 3: Test Image 3.*
 
 ## Code Explanation
@@ -60,28 +62,28 @@ drive.mount('/content/drive')
 The code produces visual comparisons of face detection results between the custom-trained classifier and the pretrained classifier for each test image. It also includes a bar graph showing the number of faces detected by both classifiers for each test image.
 
 
-![Image 1](images/1.png)
+![Image 1](images/1.png)<br>
 *Figure 4: Comparison of face detection results for both the classifiers Image 1.*
 
-![Image 2](images/2.png)
+![Image 2](images/2.png)<br>
 *Figure 5: Comparison of face detection results for both the classifiers Image 2.*
 
-![Image 3](images/3.png)
+![Image 3](images/3.png)<br>
 *Figure 6: Comparison of face detection results for both the classifiers Image 3.*
 
-![Image 4](images/4.png)
+![Image 4](images/4.png)<br>
 *Figure 7: Comparison of face detection results for both the classifiers Image 4.*
 
-![Image 5](images/5.png)
+![Image 5](images/5.png)<br>
 *Figure 8: Comparison of face detection results for both the classifiers Image 5.*
 
-![Image 6](images/6.png)
+![Image 6](images/6.png)<br>
 *Figure 9: Comparison of face detection results for both the classifiers Image 6.*
 
-![Image 7](images/7.png)
+![Image 7](images/7.png)<br>
 *Figure 10: Line Graph of face detected results for both the classifiers.*
 
-![Image 8](images/8.png)
+![Image 8](images/8.png)<br>
 *Figure 11: Improvement btw both the classifiers for face detection.*
 
 ## License
