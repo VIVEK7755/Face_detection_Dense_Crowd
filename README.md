@@ -1,4 +1,4 @@
-# Face Detection Classifier Comparison
+# Face Detection Dense Crowd
 
 This project demonstrates the comparison between a custom-trained face detection classifier and a pretrained classifier using OpenCV's Haar Cascade Classifier. It includes the code for training a custom classifier, testing it against a set of test images, and visualizing the results.
 
